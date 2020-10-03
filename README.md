@@ -361,6 +361,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 |[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
 |[Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/prashansaaa/) |
 |[Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
+|[Gidijala uday srinu](https://github.com/udaysrinu)  <br>  <img src="https://github.com/udaysrinu/Currency-converter/blob/master/pp.jpeg" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/uday_srinu/) |
 
 <br/>
 <div align="right">
